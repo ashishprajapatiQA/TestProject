@@ -3,6 +3,7 @@ if(window.location.href.includes('about.html')) {
  userlove("track", {
    event: "About click", // Replace with your custom event name
    data: {
+    console.log('about event trigger')
     },
  });
 }
