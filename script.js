@@ -8,3 +8,5 @@ if(window.location.href.includes('about.html')) {
  });
  console.log('about event trigger')
 }
+
+//google tag manager
