@@ -12,7 +12,7 @@ var uzeraq = []; function uzera(method, args) { (!!uzeraMethods && uzeraMethods[
    data: {
         },
  });
- console.log('about event trigger')
+ // console.log('about event trigger')
 
 
 // GTM - Live 
