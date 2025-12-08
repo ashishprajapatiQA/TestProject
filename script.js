@@ -13,7 +13,7 @@ var uzeraq = []; function uzera(method, args) { (!!uzeraMethods && uzeraMethods[
         },
  });
  console.log('about event trigger')
-}
+
 
 // GTM - Live 
 //<!-- Google Tag Manager Live -->
