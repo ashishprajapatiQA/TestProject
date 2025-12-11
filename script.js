@@ -6,11 +6,11 @@
 //var uzeraq = []; function uzera(method, args) { (!!uzeraMethods && uzeraMethods[method]) ? uzeraMethods[method](args) : uzeraq.push({ method: method, args: args }); } (function (u, z, e, r, a) { if (u["a_id"]) { return; } u["a_id"] = a; u["dm"] = u.location.hostname; u[r] = u[r] || []; u[e] = {}; var s = z.createElement("script"); s.async = true; s.src = "https://assets.gainserv.com/wrapper.net.js?v=" + Date.now(); var t = z.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t); })(window, document, "uzeraMethods", "uzeraDL", "FFQG8L16S2")
 // Ashish QA
 // var uzeraq = []; function uzera(method, args) { (!!uzeraMethods && uzeraMethods[method]) ? uzeraMethods[method](args) : uzeraq.push({ method: method, args: args }); } (function (u, z, e, r, a) { if (u["a_id"]) { return; } u["a_id"] = a; u["dm"] = u.location.hostname; u[r] = u[r] || []; u[e] = {}; var s = z.createElement("script"); s.async = true; s.src = "https://assets.gainserv.com/wrapper.net.js?v=" + Date.now(); var t = z.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t); })(window, document, "uzeraMethods", "uzeraDL", "CLS68387B5")//   if(window.location.href.includes('about.html')) {
- uzera("track", {
-   event: "About custom click", // Replace with your custom event name
-   data: {
-        },
- });
+ // uzera("track", {
+ //   event: "About custom click", // Replace with your custom event name
+ //   data: {
+ //        },
+ // });
  // console.log('about event trigger')
 
 
