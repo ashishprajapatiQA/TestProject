@@ -1,3 +1,21 @@
+// jaimin 
+
+(function (u, z, e, r, a) {
+      if (u["a_id"]) {
+        return;
+      }
+      u["a_id"] = a;
+      u["dm"] = "app.gainserv.in";
+      u[r] = u[r] || [];
+      u[e] = {};
+      var s = z.createElement("script");
+      s.async = true;
+      s.src = "https://assets.gainserv.in/wrapper.dev.min.js";
+      var t = z.getElementsByTagName("script")[0];
+      t.parentNode.insertBefore(s, t);
+    })(window, document, "uzeraMethods", "uzeraDL", "I84N7SQKE7");
+
+
 
 
 //Ashish+7 production
